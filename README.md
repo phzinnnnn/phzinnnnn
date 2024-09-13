@@ -11,3 +11,6 @@
 Email escolar: 00001100111621sp@al.educacao.sp.gov.br
 
 Email pessoal: pietrohenrique0014@gmail.com
+
+
+![](https://media1.tenor.com/m/cLjA_QYEHesAAAAC/grana.gif)
