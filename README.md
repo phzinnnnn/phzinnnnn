@@ -2,7 +2,7 @@
 
 **Meu nome é Pietro Henrique**
 
-- Estou estudando no alura, atualmente na escola PIOX
+- Estou estudando no [alura](https://www.alura.com.br), atualmente na escola PIOX
 - Estou desenvolvendo a linguagem JavaScript
 - Ultilizo esse espaço para divulgar meus projetos e arquivos prontos.
 
