@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @phzinnnnn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil 💙
 
-<!---
-phzinnnnn/phzinnnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Meu nome é Pietro Henrique**
+
+- Estou estudando no alura, atualmente na escola PIOX
+- Estou desenvolvendo a linguagem JavaScript
+- Ultilizo esse espaço para divulgar meus projetos e arquivos prontos.
+
+### Você pode entrar em contato comigo por email 📫
+
+Email escolar: 00001100111621sp@al.educacao.sp.gov.br
+
+Email pessoal: pietrohenrique0014@gmail.com
